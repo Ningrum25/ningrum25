@@ -55,9 +55,18 @@ motto     : "Terus Belajar Dan Berkembang 🚀"
 
 </div>
 
+## 📊 GitHub Statistics
 
----
----
+<div align="center">
+
+
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ningrum25&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E)](https://git.io/streak-stats)
+
+</div>
+
 
 ## 📞 Kontak
 
