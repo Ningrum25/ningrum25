@@ -20,11 +20,10 @@
 ## 🙋‍♀️ About Me
 
 ```yaml
-name      : Ningrum
+name      : Korin Kusuma Ningrum
 username  : Ningrum25
 location  : Indonesia 🇮🇩
-status    : Always Learning & Growing 📚
-focus     : Technology & Development
+focus     : Belajar pengembangan web sederhana
 motto     : "Terus Belajar Dan Berkembang 🚀"
 ```
 
