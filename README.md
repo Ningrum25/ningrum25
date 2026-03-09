@@ -2,7 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Belajar%20Tekno&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🚀%20Terus%20Belajar%20Dan%20Berkembang&descAlignY=58&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=👋+Halo+Saya+Ningrum;Selamat+Datang+Di+Profil+Saya!;Belajar+Teknologi+Informasi+🖥️;Pengembangan+Web+Dasar;🚀+Terus+Belajar+Dan+Berkembang)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+saya+Korin+Kusuma+Ningrum+;Selamat+Datang+Di+Profil+Saya!)](https://git.io/typing-svg)
+
 
 ---
 
@@ -20,7 +21,7 @@
 nama      : Korin Kusuma Ningrum
 username  : Ningrum25
 lokasi    : Indonesia 🇮🇩
-fokus     : Web Development Dasar
+fokus     : Belajar mengembangkan website sederhana
 motto     : "Terus Belajar Dan Berkembang 🚀"
 ```
 
@@ -32,8 +33,8 @@ motto     : "Terus Belajar Dan Berkembang 🚀"
 
 **Bahasa Pemrograman**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Tools & Platform**
 
@@ -50,26 +51,10 @@ motto     : "Terus Belajar Dan Berkembang 🚀"
 <div align="center">
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ningrum25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ningrum25&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ningrum25&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E)](https://git.io/streak-stats)
-
-</div>
 
 ---
 ---
